@@ -5,6 +5,9 @@ tags: Stork 開發日誌
 Stork 建立專案 - 前置作業
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/BHy_UmK6Twi8b1VxD_1j-w/badge)](https://hackmd.io/BHy_UmK6Twi8b1VxD_1j-w)
+
 **1. 在 Github 創建一個新的 Repository 準備**
 
 **2. 開一個新的 Rails 專案，預設資料庫使用 postgresql**
