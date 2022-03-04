@@ -2,6 +2,9 @@
 tags: 技術資料統整
 ---
 # Action Cable
+
+[![hackmd-github-sync-badge](https://hackmd.io/Qb3_hDhsQJavU-ZQPaekKA/badge)](https://hackmd.io/Qb3_hDhsQJavU-ZQPaekKA)
+
 ## 概論
 ### WebSocket
 
