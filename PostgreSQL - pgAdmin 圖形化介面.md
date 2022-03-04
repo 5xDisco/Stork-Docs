@@ -5,6 +5,9 @@ tags: 技術資料統整
 PostgreSQL - pgAdmin 圖形化介面
 ===
 
+
+[![hackmd-github-sync-badge](https://hackmd.io/3rYdXIPUQWOH7E953-dbXA/badge)](https://hackmd.io/3rYdXIPUQWOH7E953-dbXA)
+
 :::info
 開啟 pgAdmin 的一些設定
 :::
