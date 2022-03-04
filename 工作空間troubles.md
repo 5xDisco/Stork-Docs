@@ -1,5 +1,8 @@
 # 工作空間troubles
 
+[![hackmd-github-sync-badge](https://hackmd.io/gGivxzCKTaa4KvIEt53ihQ/badge)](https://hackmd.io/gGivxzCKTaa4KvIEt53ihQ)
+
+
 ## 登入登出問題
 * 看不到devise生成的helper或controller設定內容。
 * 因devise已在route中生成路徑devise_for :users。這造成登入後會自動跳回首頁，但必須改跳到自訂的網頁（工作空間列表）
