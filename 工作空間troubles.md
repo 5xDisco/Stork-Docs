@@ -1,3 +1,6 @@
+---
+tags: Stork 開發日誌
+---
 # 工作空間troubles
 
 [![hackmd-github-sync-badge](https://hackmd.io/gGivxzCKTaa4KvIEt53ihQ/badge)](https://hackmd.io/gGivxzCKTaa4KvIEt53ihQ)
@@ -46,6 +49,6 @@ space_member的 "space_id" belongs_to spaces.id
 * 龍哥的例子是把動態產生卡片addToCart，但這裡應該是把users.id 傳入spaces.id ？再研究
 
 
-###### tags: `Stork 開發日誌`
+
 
 
