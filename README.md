@@ -12,6 +12,9 @@
 - [Frontends - Packages](https://github.com/5xDisco/Docs/blob/master/Frontends%20-%20Packages.md)
 - [taiwindcss 環境建置(未完)](https://github.com/5xDisco/Docs/blob/master/taiwindcss%20%E7%92%B0%E5%A2%83%E5%BB%BA%E7%BD%AE.md)
 - [Active Storage](https://github.com/5xDisco/Docs/blob/master/Active%20Storage.md)
+- [Rails Devise login with Google](https://github.com/5xDisco/Docs/blob/master/Rails%20Devise%20login%20with%20Google.md)
+- [Mailgun 設定](https://github.com/5xDisco/Docs/blob/master/Mailgun%20%E8%A8%AD%E5%AE%9A.md)
+- [Stimulus JS](https://github.com/5xDisco/Docs/blob/master/Stimulus%20JS.md)
 
 ### 3. 問題和解決
 - [Friendly_id 建立及無效排除](https://github.com/5xDisco/Docs/blob/master/Friendly_id%20%E5%BB%BA%E7%AB%8B%E5%8F%8A%E7%84%A1%E6%95%88%E6%8E%92%E9%99%A4.md)
@@ -26,3 +29,4 @@
 - [Active Storage](https://github.com/5xDisco/Docs/blob/master/Active%20Storage.md)
 - [改右鍵選單](https://github.com/5xDisco/Docs/blob/master/%E6%94%B9%E5%8F%B3%E9%8D%B5%E9%81%B8%E5%96%AE.md)
 - [ajax](https://github.com/5xDisco/Docs/blob/master/ajax.md)
+- Heroku
