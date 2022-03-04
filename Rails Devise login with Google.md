@@ -28,3 +28,4 @@ google_client_secret: ""
 
 ### References
 - [Rails實作第三方登入-Google](https://medium.com/tingyiiii/rails%E5%AF%A6%E4%BD%9C%E7%AC%AC%E4%B8%89%E6%96%B9%E7%99%BB%E5%85%A5-google-2a0851b74193)
+- [Google · authentication](https://www.atauthentication.com/docs/google.html)
